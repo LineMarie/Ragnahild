@@ -1,4 +1,4 @@
 # GitHub Pages configuration
-//remote_theme: minima
-//title: My Blog
-//description: A simple blog using GitHub Pages
+remote_theme: Modernist
+title: My Blog
+description: A simple blog using GitHub Pages
